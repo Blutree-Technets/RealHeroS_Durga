@@ -1,6 +1,7 @@
 # RealHeros-Durga
 
-The basic concept of our solution is that citizens depend on each other instead of government authorities in times of distress.
+The basic concept is that citizens depend on each other along with government authorities in times of distress.
+So, therefore, we a college StartUp, Blutree Technology Networks along with Durga(NGO. working of women's safety for over 10 years) bring in a Standalone App for the safety of women.
 
 # Our Solution:
    1. The device is essentially an easily concealable button triggered device which calls for immediate help 
