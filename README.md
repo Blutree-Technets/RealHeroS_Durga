@@ -1,21 +1,37 @@
 # RealHeroS_Durga
-# pARspective
 
 # Introduction:
-An app created in 24 hours using the latest technologies for the BLIND, more features and bug fixes to be done in the future.
+The basic concept of our solution is that citizens depend on each other instead of government authorities in times of distress.
 
-#Technologies used:
+# Our Solution:
+1. The device is essentially an easily concealable button triggered device which calls for immediate help 
+   while also alerting people nearby (Active Bystanders) and other users of our application that the user 
+   is in need of help.
+2. Our device helps users inform their personal emergency contacts on our app that they are in danger 
+   with the live location.
+3. The device also has a mobile application that has nearby police station and hospital contact details on 
+   standby, The app can work independently too.
+4. We have partnered with Durga India and are being incubated as one of their Voice Labs. This is 
+   extremely useful in order to have a reliable network of Durgas and Safe Zones.
+5. It comprises of Safe Zones which are public locations like shops, banks etc where trained Durga 
+   volunteers will be present at all times.
+6. We have been guided and sensitized towards this topic by Durga India
+
+# Technologies used:
 - Flutter
 - Dart
-- TensorFlow Lite
-- Teachable Machine
+- Firebase
+- Rest API
+- Google Cloud Platform
+- Google Maps Platform
 
 # Requirements:
   1. Android 6 and above.
   2. Screen Size of 6 inchs only.
   3. Internet and Bluetooth connectivity.
+
 # Demo:
-![Wix Logo Maker and 4 more pages - Personal - Microsoft​ Edge 30-06-2021 05_55_41 PM (2)](https://user-images.githubusercontent.com/68584181/123961083-9d914b00-d9cd-11eb-900c-f7723de5b798.png)
+
 
 
 # Installation Procedure:
