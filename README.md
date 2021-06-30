@@ -1,41 +1,16 @@
-# RealHeroS_Durga
+# realheros_durga
 
-# Introduction:
-The basic concept of our solution is that citizens depend on each other instead of government authorities in times of distress.
+A new Flutter project.
 
-# Our Solution:
-1. The device is essentially an easily concealable button triggered device which calls for immediate help 
-   while also alerting people nearby (Active Bystanders) and other users of our application that the user 
-   is in need of help.
-2. Our device helps users inform their personal emergency contacts on our app that they are in danger 
-   with the live location.
-3. The device also has a mobile application that has nearby police station and hospital contact details on 
-   standby, The app can work independently too.
-4. We have partnered with Durga India and are being incubated as one of their Voice Labs. This is 
-   extremely useful in order to have a reliable network of Durgas and Safe Zones.
-5. It comprises of Safe Zones which are public locations like shops, banks etc where trained Durga 
-   volunteers will be present at all times.
-6. We have been guided and sensitized towards this topic by Durga India
+## Getting Started
 
-# Technologies used:
-- Flutter
-- Dart
-- Firebase
-- Rest API
-- Google Cloud Platform
-- Google Maps Platform
+This project is a starting point for a Flutter application.
 
-# Requirements:
-  1. Android 6 and above.
-  2. Screen Size of 6 inchs only.
-  3. Internet and Bluetooth connectivity.
+A few resources to get you started if this is your first Flutter project:
 
-# Demo:
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-
-
-# Installation Procedure:
-  1. Open via VSCode or Android Studio.
-  2. Use an android emulator or an android mobile phone.
-  3. Use Flutter Run command to build the App.
-  4. App is ready and good to use.
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
